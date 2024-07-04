@@ -4,7 +4,7 @@ import "./App.css";
 import Card from "./Component/Card";
 import React, { useState } from 'react';
 import Certificate from "./Component/Certificate";
-import Chatbot from "./Component/Chatbot";
+
 
 
 
@@ -101,6 +101,6 @@ function App() {
 export default App;
 
 // "Image/Instructor.png"
- {/* <svg width="400" height="200">
+ /* <svg width="400" height="200">
   <path d="M 10 10 C 50 20, 100 30, 150 40" stroke="black" stroke-dasharray="5,5" fill="none" />
- </svg> */}
+ </svg> */
